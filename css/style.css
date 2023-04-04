@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+a {
+    text-decoration: underline !important;
+}
+
+.bg-section {
+    background-color: #fbfdfd !important;
+}
+
+.navbar-bg-color {
+    background-color: #006798 !important;
+}
+
+.bg-button {
+    padding: 5px 42px !important;
+    color: #fff !important;
+    background-color: #2B2E4A !important;
+}
+
+.info,
+h5 {
+    word-spacing: 3px !important;
+}
+
+textarea {
+    resize: none !important;
+}
+.textarea-h{
+    height: 15vh !important;
+}
